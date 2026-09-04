@@ -2,11 +2,11 @@
 
 ## RO0K
 
-![Rook avatar image](images/ro0k-avatar.png)
+![Rook avatar image](images/ro0k-avatar-small.png)
 
 ## Gus
 
-![Gus avatar image](images/gus-avatar.png)
+![Gus avatar image](images/gus-avatar-small.png)
 
 ### Goose
 
@@ -15,7 +15,7 @@
 
 ## Kyo
 
-![Kyo avatar image](images/kyo-avatar.png)
+![Kyo avatar image](images/kyo-avatar-small.png)
 
 ### Claude.ai
 
