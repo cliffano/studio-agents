@@ -2,11 +2,20 @@
 
 ## RO0K
 
-![Rook avatar image](images/ro0k-avatar-small.png)
+![RO0K avatar image](images/ro0k-avatar-small.png)
+
+[Persona](personas/rook.md)
+
+### ChatGPT.com
+
+1. Navigate to `ChatGPT Setting -> Personalization -> Custom instructions`
+2. Copy paste [RO0K's persona](personas/ro0k.md)
 
 ## Gus
 
 ![Gus avatar image](images/gus-avatar-small.png)
+
+[Persona](personas/gus.md)
 
 ### Goose
 
@@ -16,6 +25,8 @@
 ## Kyo
 
 ![Kyo avatar image](images/kyo-avatar-small.png)
+
+[Persona](personas/kyo.md)
 
 ### Claude.ai
 
