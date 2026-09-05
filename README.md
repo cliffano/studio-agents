@@ -4,6 +4,8 @@
 
 ![RO0K avatar image](images/ro0k-avatar-small.png)
 
+![RO0K introduction](images/ro0k-intro.png)
+
 [Persona](personas/rook.md)
 
 ### ChatGPT.com
@@ -15,6 +17,8 @@
 
 ![Gus avatar image](images/gus-avatar-small.png)
 
+![Gus introduction](images/gus-intro.png)
+
 [Persona](personas/gus.md)
 
 ### Goose
@@ -25,6 +29,8 @@
 ## Kyo
 
 ![Kyo avatar image](images/kyo-avatar-small.png)
+
+![Kyo introduction](images/kyo-intro.png)
 
 [Persona](personas/kyo.md)
 
